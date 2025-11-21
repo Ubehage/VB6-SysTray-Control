@@ -20,7 +20,6 @@ This repository bundles everything you need in one place:
 - Events for all mouse actions (including double-clicks and hover/leave).
 - Simple properties to control the icon, tooltip and whether it is in the tray.
 - Balloon tip support (default timeout: 15 seconds).
-- Minimal surface area: it keeps internal properties private and only exposes what you need.
 
 ## Supported events
 
@@ -89,4 +88,5 @@ Copyright © Ubehage
 ## Credits
 
 Created by Ubehage  
+
 [GitHub Profile](https://github.com/Ubehage)
