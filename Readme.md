@@ -55,6 +55,7 @@ Public properties (for user use)
 Internal properties (visible in the project but not for user modification)
 - Property OldWindowProc
 - Property TrayID
+
 **Do NOT change these — they are required for correct operation.**
 
 Public methods
@@ -90,3 +91,4 @@ Copyright © Ubehage
 Created by Ubehage  
 
 [GitHub Profile](https://github.com/Ubehage)
+
