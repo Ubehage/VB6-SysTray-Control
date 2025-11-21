@@ -68,7 +68,7 @@ Exposed internal function
   - Internal helper to cause the class to call a specific event. Not intended for regular user code.
 
 ## How to use it
-Add the 3 files, **SysTray.cls*, **modSysTray.Bas**, **modGlobal.bas** to your project.
+Add the 3 files, **SysTray.cls**, **modSysTray.Bas**, **modGlobal.bas** to your project.
 
 ## Notes and Tips
 
@@ -91,4 +91,5 @@ Copyright © Ubehage
 Created by Ubehage  
 
 [GitHub Profile](https://github.com/Ubehage)
+
 
